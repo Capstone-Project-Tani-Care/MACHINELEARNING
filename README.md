@@ -34,3 +34,20 @@ Making predictions of several diseases from Rice, Corn, Soybean, Tomato, and Pot
 * [Potato](https://www.kaggle.com/datasets/rizwan123456789/potato-disease-leaf-datasetpld)
 * [Soybean](https://www.kaggle.com/datasets/maeloisamignoni/soybeanleafdataset?select=soybean.leaf.dataset)
 
+---
+
+## 📊 *Model Results*
+
+| Model             | Visualisasi                           |
+|--------------------|---------------------------------------|
+| *CORN CNN*         | ![CORN_CNN Result](Model%20Results/CORN_CNN.png)       |
+| *CORN TF*          | ![CORN_TF Result](Model%20Results/CORN_TF.png)         |
+| *RICE CNN*         | ![RICE_CNN Result](Model%20Results/RICE_CNN.png)       |
+| *RICE TF*          | ![RICE_TF Result](Model%20Results/RICE_TF.png)         |
+| *SOYBEAN CNN*      | ![SOYBEAN_CNN Result](Model%20Results/SOYBEAN_CNN.png) |
+| *SOYBEAN TF*       | ![SOYBEAN_TF Result](Model%20Results/SOYBEAN_TF.png)   |
+| *POTATO CNN*       | ![POTATO_CNN Result](Model%20Results/POTATO_CNN.png)   |
+| *POTATO TF*        | ![POTATO_TF Result](Model%20Results/POTATO_TF.png)     |
+| *TOMATO CNN*       | ![TOMATO_CNN Result](Model%20Results/TOMATO_CNN.png)   |
+| *TOMATO TF*        | ![TOMATO_TF Result](Model%20Results/TOMATO_TF.png)     |
+
